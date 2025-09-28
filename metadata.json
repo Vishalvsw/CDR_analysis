@@ -1,0 +1,5 @@
+{
+  "name": "AI-Powered CDR Analysis Dashboard",
+  "description": "An interactive web application to upload, analyze, and visualize Call Detail Record (CDR) data. It provides summary statistics, charts, and location analysis powered by Gemini, and allows exporting reports to PDF and Excel.",
+  "requestFramePermissions": []
+}
